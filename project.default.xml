@@ -1,0 +1,69 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>C/C++</id>
+              </State>
+              <State>
+                <id>Declaration orderC/C++</id>
+              </State>
+              <State>
+                <id>FunctionsC/C++</id>
+              </State>
+              <State>
+                <id>GeneralC/C++</id>
+              </State>
+              <State>
+                <id>Python</id>
+              </State>
+              <State>
+                <id>RegExp</id>
+              </State>
+              <State>
+                <id>Type checksC/C++</id>
+              </State>
+              <State>
+                <id>Unused codeC/C++</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.10 (/usr/bin/python)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="language.cpp" />
+        <property name="last_opened_file_path" value="/usr/bin/python" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

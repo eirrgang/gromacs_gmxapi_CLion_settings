@@ -1,0 +1,194 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/cpp/CMakeLists.txt" timestamp="1501271221608">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/python/gmx/module_md.cpp" timestamp="1501362213519">
+        <mark key="[" line="59" column="6" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="59" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501270246698">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/gromacs-dev/src/api/cpp/gmxapi/mdsetup.msc" timestamp="1510532173893">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/cpp/include/gmxapi/runner.h" timestamp="1501275370007">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="55" column="35" />
+        <mark key="." line="55" column="35" />
+        <mark key="^" line="55" column="35" />
+      </file>
+      <file name="$USER_HOME$/develop/gromacs-dev/src/api/cpp/gmxapi/md.h" timestamp="1510622308882">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+      </file>
+      <file name="$USER_HOME$/develop/gromacs-dev/src/api/cpp/tests/test_md.cpp" timestamp="1501269039763">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/cpp/tests/test_md.cpp" timestamp="1501271787809">
+        <mark key="[" line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/python/gmx/context.py" timestamp="1501364726589">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="47" column="66" />
+        <mark key="." line="47" column="66" />
+        <mark key="^" line="47" column="66" />
+      </file>
+      <file name="$USER_HOME$/develop/gromacs-dev/src/api/cpp/md.cpp" timestamp="1501269403599">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/cpp/md.cpp" timestamp="1501283523104">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="72" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/python/gmx/module_md.h" timestamp="1501361274362">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="69" column="72" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/python/gmx/runner.py" timestamp="1501364185179">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+      </file>
+      <file name="/LLDB" timestamp="1501264343032">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/cpp/runner.cpp" timestamp="1501275157586">
+        <mark key="[" line="118" column="35" />
+        <mark key="]" line="118" column="77" />
+        <mark key="^" line="118" column="77" />
+        <mark key="." line="118" column="77" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/cpp/include/gmxapi/md.h" timestamp="1501282709292">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="9" />
+        <mark key="^" line="38" column="17" />
+        <mark key="." line="38" column="9" />
+      </file>
+      <file name="$USER_HOME$/build/gromacs-clion/gromacs-dev/src/api/cpp/include/gmxapi/gmxapi.h" timestamp="1501275864419">
+        <mark key="[" line="22" column="65" />
+      </file>
+      <file name="$USER_HOME$/develop/gromacs-dev/src/programs/mdrun/mdengine.h" timestamp="1508096883899">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="23" />
+      </file>
+      <file name="$USER_HOME$/develop/gromacs-dev/src/programs/mdrun/runner.h" timestamp="1509637906512">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="97" column="10" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/gromacs-dev/src/api/docs/msc_input/md/basic_api.msc" timestamp="1510534254952">
+        <mark key="'" line="28" column="1" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="45" column="2" filename="$USER_HOME$/develop/gromacs-dev/src/api/cpp/gmxapi/mdsetup.msc" />
+      <jump line="0" column="21" filename="$USER_HOME$/develop/gromacs-dev/src/api/cpp/gmxapi/mdsetup.msc" />
+      <jump line="44" column="0" filename="$USER_HOME$/develop/gromacs-dev/src/api/cpp/gmxapi/mdsetup.msc" />
+      <jump line="3" column="0" filename="$USER_HOME$/develop/gromacs-dev/src/api/cpp/gmxapi/mdsetup.msc" />
+      <jump line="28" column="1" filename="$USER_HOME$/develop/gromacs-dev/src/api/docs/msc_input/md/basic_api.msc" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICo=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">IFwq</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICog</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICoK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICogXEV4YW1wbGUKICoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gTm9uZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IAogICAgZGVmIHJ1bm5lcihzZWxmLCBydW5uZXJfb2JqZWN0KToKICAgICAgICAiIiJBbGxvdyBjb250ZXh0IGFuZCBydW5uZXIgdG8gYmluZC4iIiIKICAgICAgICBwYXNzCiAgICA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgOjpnbXg6OmNvbXBhdDo6bWFrZV91bmlxdWU7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImdteGFwaS9tZC5oIgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/ \*//</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">IFwq</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">IFwq</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IFwq</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">IFwqIA==</entry>
+        <entry encoding="base64">IFwq</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>%s/ \* //</entry>
+        <entry>%s/ \*//</entry>
+        <entry>set paste</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
