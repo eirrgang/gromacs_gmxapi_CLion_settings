@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="in" type="CMakeLists.txt" />
       <mapping ext="msc" type="PLAIN_TEXT" />
+      <mapping ext="inv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
