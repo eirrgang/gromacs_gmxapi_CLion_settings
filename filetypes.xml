@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="in" type="CMakeLists.txt" />
+      <mapping ext="ipynb" type="JSON" />
       <mapping ext="msc" type="PLAIN_TEXT" />
       <mapping ext="inv" type="PLAIN_TEXT" />
     </extensionMap>
