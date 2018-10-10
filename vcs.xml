@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/kassonlab/sample_restraint.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://m_eric_irrgang@gerrit.gromacs.org/gromacs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/develop/CLionProjects" />
