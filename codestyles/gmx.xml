@@ -2,6 +2,7 @@
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="80,120" />
   <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="ADD_BRIEF_TAG" value="true" />
     <option name="TAG_PREFIX_OF_BLOCK_COMMENT" value="BACK_SLASH" />
     <option name="FIELDS_SUFFIX" value="_" />
