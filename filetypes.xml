@@ -11,6 +11,7 @@
       <mapping ext="gro" type="PLAIN_TEXT" />
       <mapping ext="msc" type="PLAIN_TEXT" />
       <mapping ext="inv" type="PLAIN_TEXT" />
+      <mapping ext="pu" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
