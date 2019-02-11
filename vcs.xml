@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/kassonlab/gmxapi-scripts" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/mpi4py/mpi4py.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/develop/CLionProjects" />
