@@ -5,6 +5,7 @@
       <mapping ext="ipynb" type="JSON" />
       <mapping pattern="set_compilers" type="PLAIN_TEXT" />
       <mapping pattern="set_python" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="mdp" type="PLAIN_TEXT" />
       <mapping ext="top" type="PLAIN_TEXT" />
       <mapping ext="ndx" type="PLAIN_TEXT" />
