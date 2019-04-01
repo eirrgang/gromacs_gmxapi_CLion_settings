@@ -100,46 +100,6 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 2.7 (gmxapi) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages/networkx-2.1-py2.7.egg" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages/decorator-4.3.0-py2.7.egg" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages/gmx-0.0.6-py2.7-macosx-10.13-x86_64.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2018.1/python_stubs/1771879812" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages/networkx-2.1-py2.7.egg" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages/decorator-4.3.0-py2.7.egg" />
-        <root url="file://$USER_HOME$/.virtualenvs/py27/gmxapi/lib/python2.7/site-packages/gmx-0.0.6-py2.7-macosx-10.13-x86_64.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2018.1/python_stubs/1771879812" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 2.7.13 virtualenv at ~/.virtualenvs/CLionEnv interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/CLionEnv/lib/python2.7" />
@@ -601,6 +561,58 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.4 (gromacs-gmxapi) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.4 (gromacs-gmxapi) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
@@ -3974,32 +3986,6 @@
         <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
         <root url="file://$USER_HOME$/.virtualenvs/py37/gmxapi/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/develop/CLionProjects/gromacs-gmxapi/python_packaging/gmxapi/src" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/1363055587" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (gmxapi) interpreter library">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.virtualenvs/py37/gmxapi/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/develop/PycharmProjects/gromacs-gmxapi/python_packaging/gmxapi/src" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/1363055587" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.virtualenvs/py37/gmxapi/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/develop/PycharmProjects/gromacs-gmxapi/python_packaging/gmxapi/src" />
         <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/1363055587" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
