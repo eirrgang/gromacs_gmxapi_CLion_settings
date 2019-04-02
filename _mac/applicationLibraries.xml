@@ -616,6 +616,60 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.4 (gromacs-gmxapi) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.4 (gromacs-gmxapi) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/develop/CLionProjects/gromacs-gmxapi/python_packaging/src" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.4.9/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/gromacs-gmxapi/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/develop/CLionProjects/gromacs-gmxapi/python_packaging/src" />
+        <root url="file://$USER_HOME$/Library/Caches/CLion2018.3/python_stubs/433675193" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (CLionEnv3) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/CLionEnv3/lib/python3.6" />
