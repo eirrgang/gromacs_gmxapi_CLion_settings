@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../python_packaging/test/conftest.py'" />
-    <option name="defaultScopeName" value="File '.../python_packaging/test/conftest.py'" />
+    <option name="customScope" value="Directory '.../python_packaging/src'" />
+    <option name="defaultScopeName" value="Directory '.../python_packaging/src'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../python_packaging/test/conftest.py'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../python_packaging/src'" />
   </component>
 </application>
