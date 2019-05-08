@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="in" type="CMakeLists.txt" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="ipynb" type="JSON" />
       <mapping pattern="set_compilers" type="PLAIN_TEXT" />
       <mapping pattern="set_python" type="PLAIN_TEXT" />
