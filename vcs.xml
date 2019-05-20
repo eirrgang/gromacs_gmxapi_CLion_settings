@@ -58,6 +58,10 @@
           <option name="url" value="https://gitlab.kitware.com/cmake/cmake.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:eirrgang/gromacs-gmxapi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/develop/CLionProjects" />
